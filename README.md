@@ -13,4 +13,4 @@ This initial version of the script runs only manually. It also supports two them
 ## Run
 Open a terminal window within the script directory and run: ``` python ./themechanger.py```
 
-#Cheers!
+# Cheers!
